@@ -1,0 +1,32 @@
+'''           
+
+    def Tree_Labeling(self, a):
+        
+        path = []
+        indexed = []
+        while a > 1:
+            if a == int(a/2):
+                path.append(a)
+                a = int(a/2)
+                indexed.append(1)
+            else:
+                path.append(a)
+                a = int(a/2)
+                indexed.append(-1)
+                
+        return indexed, path  
+    
+          
+    def SkipGram_H_SoftMax(self, W_vi):
+        
+        for k in range(W_vi - 2*self.w):
+            
+            #feedforward
+            ah = sigmoid(np.dot(Karate[W_vi[i],:], self.pi_i)) 
+            
+            for j in range:
+                path, indexed = self.Tree_Labeling(j)
+                y = 1
+                y = y*sigmoid(np.dot(self.h_vi[:,k], ah)*indexed[]                     
+       
+'''
