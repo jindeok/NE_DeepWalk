@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 31 05:27:31 2020
-
-@author: jbist
-"""
 
 import numpy as np
 import heapq
@@ -11,8 +5,7 @@ import matplotlib.pyplot as plt
 import time
 import networkx as nx
 import neptune
-neptune.init('jinduk/sandbox')
-neptune.create_experiment(name='softmax comparison-Huffman')
+
 
 
 
