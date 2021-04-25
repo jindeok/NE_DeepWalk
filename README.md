@@ -6,7 +6,9 @@ implementation w/o ML framework such as Tensorflow or Pytorch.
 
 ## Requirments
 networkx == 2.5
+
 matplotlib
+
 pandas
 
 
