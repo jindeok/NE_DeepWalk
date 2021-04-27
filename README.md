@@ -13,7 +13,8 @@ pandas
 
 
 ## Description
-
+run with 
+`` DeepWalk_2.py ``
 The files for embedding Karate network.
 There is raw edgelist data for Karete.
 the main script includes not only DeepWalk class but also data preprocessings.
