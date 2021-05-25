@@ -1,5 +1,5 @@
 # NE_DeepWalk
-DeeplWalk implementation with simple example(Karete network).
+DeeplWalk network embedding implementation with simple example(Karete network).
 implementation w/o ML framework such as Tensorflow or Pytorch.
 
 ![image](https://user-images.githubusercontent.com/35905280/96146155-f654ac80-0f40-11eb-8f95-1a6f334e2019.png)
